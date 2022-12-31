@@ -57,7 +57,17 @@ h1{
     justify-content: center;
 }
 
+/* feature icons */
+
+.features-icons:hover{
+    color: #ff4c68;
+}
+
 /* 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 */
+
+.testing{
+    border: 1px solid red;
+}
